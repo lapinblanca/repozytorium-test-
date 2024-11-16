@@ -1,2 +1,2 @@
-to jest pierwsza linijka;
-to jest druga linijka 
+to jest pierwsza linijka1.0;
+to jest druga linijka2.0 
